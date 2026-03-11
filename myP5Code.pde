@@ -21,9 +21,8 @@ draw = function(){
   
 };
 
-mouseClicked = function(){
-  answer = round(random(1, 5));
-};
+if(mousePressed){
+  text( "🪬",random(0,400),72);}
 
 
 
