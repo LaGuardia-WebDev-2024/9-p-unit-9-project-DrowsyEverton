@@ -32,7 +32,7 @@ draw = function(){
     text("ZANDAR says", 179, 200);
     fill (255,255,0);
     textSize (20);
-    text("LETS GO TO SIX FLAG! YEAH! YEAH!", 157, 229); 
+    text("LETS GO TO SIX FLAG! YEAH! ", 157, 229); 
   }
   
 };
